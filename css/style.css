@@ -124,7 +124,7 @@ body {
     }
   
     .header-content .text {
-      display: content;
+      display: none;
     }
     
     .grid-3, .grid-2 {
